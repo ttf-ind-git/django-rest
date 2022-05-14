@@ -1,0 +1,6 @@
+
+To initialize git
+    -> git init
+
+To get status of reposotory
+    -> git status
