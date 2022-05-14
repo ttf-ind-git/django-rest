@@ -24,6 +24,10 @@ To set remote repository
 To push code
     -> git push -u origin master
 
+To pull code
+    git pull = git fetch + git rebase
+    -> git pull
+
 
 
 
