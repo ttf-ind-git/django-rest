@@ -6,7 +6,8 @@ To get status of reposotory
     -> git status
 
 To add files to git 
-    -> git add .
+    -> git add . (add all files to git)
+    -> git add <file_name> (all specific file)
 
 To commit git
     -> git commit -m '<name>'
@@ -16,6 +17,14 @@ To view all logs and commits
 
 To Show all git config info
     -> git config -l
+
+To set remote repository
+    -> git remote add origin <url>
+
+To push code
+    -> git push -u origin master
+
+
 
 
 
