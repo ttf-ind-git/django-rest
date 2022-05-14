@@ -42,7 +42,7 @@ To change branch(local)
 
 To merge branches
     -> first we need to checkout destination branch like <master>
-    -> Run -> git merge <destination_branch_name>
+    -> Run -> git merge <source_branch_name> 
 
 
 
