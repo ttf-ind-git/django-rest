@@ -4,3 +4,19 @@ To initialize git
 
 To get status of reposotory
     -> git status
+
+To add files to git 
+    -> git add .
+
+To commit git
+    -> git commit -m '<name>'
+
+To view all logs and commits
+    -> git log
+
+To Show all git config info
+    -> git config -l
+
+
+
+
