@@ -26,10 +26,21 @@ To push code
 
 To pull code
     git pull = git fetch + git rebase
-    
+
     -> git pull (git pull pulls down from a remote and instantly merges.)
 
     -> git fetch (git fetch is similar to pull but doesn't merge. i.e. it fetches remote updates ( refs and objects ) but your local stays the same (i.e. origin/master gets updated but master stays the same) .)
+
+To get Current branch(local)
+    -> git brach
+
+To Create Branch(local)
+    -> git branch test
+
+To change branch(local)
+    -> git checkout <branch_name>
+
+
 
 
 
