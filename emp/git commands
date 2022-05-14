@@ -40,6 +40,10 @@ To Create Branch(local)
 To change branch(local)
     -> git checkout <branch_name>
 
+To merge branches
+    -> first we need to checkout destination branch like <master>
+    -> Run -> git merge <destination_branch_name>
+
 
 
 
