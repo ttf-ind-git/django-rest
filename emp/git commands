@@ -29,7 +29,7 @@ To pull code
     
     -> git pull (git pull pulls down from a remote and instantly merges.)
 
-    -> git fetch (git fetch is similar to pull but doesn't merge. i.e. it fetches remote updates ( refs and objects ) but your local stays the same (i.e. origin/master gets updated but master stays the same) .)
+    -> git fetch (git fetch is similar to pull but doesn't merge. i.e. it fetches remote updates ( refs and objects ) but your local stays the same (i.e. origin/master gets updated but master stays the same).)
 
 
 
